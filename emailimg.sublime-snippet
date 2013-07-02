@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<img style="display: block;" border="0" src="$1" width="$2" height="$3" name="$4" alt="$5" />$0
+]]></content>
+	<tabTrigger>emailimg</tabTrigger>
+</snippet>
